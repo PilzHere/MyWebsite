@@ -2,3 +2,7 @@
   path = MyHugoSite/themes/PaperMod
   url = https://github.com/adityatelange/hugo-PaperMod
 	
+[submodule "public"]
+	path = public
+	url = https://github.com/PilzHere/pilzhere.github.io.git
+	branch = master

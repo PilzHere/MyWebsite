@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>website on PilzHere</title>
+    <link>https://pilzhere.github.io/tags/website/</link>
+    <description>Recent content in website on PilzHere</description>
+    <image>
+      <url>https://pilzhere.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pilzhere.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pilzhere.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New website</title>
+      <link>https://pilzhere.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/my-first-post/</guid>
+      <description>*Level up!*</description>
+    </item>
+    
+  </channel>
+</rss>
