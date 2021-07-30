@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: PilzHere
-  description: "ExampleSite description"
+  title: PilzHere's blog
+  description: "A blog about programming, videogames, technology and other unplanned topics." # Link preview description.
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: PilzHere
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -30,10 +30,10 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -49,7 +49,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "PilzHere"
+    text: "PILZHERE"
     #icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -75,7 +75,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "svampodling@gmail.com"
+      url: "mailto:svampodling@gmail.com"
     - name: github
       url: "https://github.com/PilzHere"
     - name: itchio
@@ -83,7 +83,7 @@ params:
     - name: youtube
       url: "https://www.youtube.com/user/ArkkTM"
     - name: twitch
-      url: "https://github.com/PilzHere"
+      url: "https://twitch.tv/PilzHere"
     - name: twitter
       url: "https://twitter.com/PilzHere"
     #- name: stackoverflow
@@ -104,7 +104,7 @@ params:
 
   editPost:
     URL: "https://github.com/PilzHere/MyWebsite/MyHugoWebsite/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Suggest changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
