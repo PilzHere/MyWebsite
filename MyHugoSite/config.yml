@@ -123,10 +123,10 @@ menu:
       name: projects
       url: /projects/
       weight: 10
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 20
+    #- identifier: categories
+    #  name: categories
+    #  url: /categories/
+    #  weight: 20
     - identifier: tags
       name: tags
       url: /tags/
