@@ -21,19 +21,17 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 cover:
-image: ""
-alt: "<alt text>" # alt text
-caption: "<text>" # display caption under cover
-relative: false # when using page bundles set this to true
-hidden: true # only hide on current single page
+    image: "https://img.itch.zone/aW1nLzI4MjMxNDgucG5n/347x500/zVNgsE.png"
+    alt: "Title of game with an island in the background surrounded by ocean." # alt text
+    caption: "Are there sharks in the ocean?" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 
 editPost:
-external_URL: "https://github.com/<path_to_repo>/content"
-Text: "Suggest Changes" # edit text
-appendFilePath: true # to append file path to Edit link
+    URL: "mailto://svampodling@gmail.com?subject=Suggesting changes for "
+    #Text: "Suggest changes"
+    #appendFilePath: true # to append file path to Edit link
 ---
-
-![](https://img.itch.zone/aW1nLzI4MjMxNDgucG5n/347x500/zVNgsE.png)
 
 Developed for the **LibGDX Game Jam**, December 2019.
 It is coded in Java, using the game library LibGDX.
@@ -45,6 +43,9 @@ It was made in a week of time.
 I really enjoy the look of sprites in a 3D world and had a blast coding this game.\
 Some code of the game is horrible *(just make it work)* because of the deadline.
 
-[Download game here](https://pilzhere.itch.io/santas-crashing-christmas)
+*Here's the timelapse of coding the game*
+{{< youtube eHvpQgGYObA >}}
 
-[Sourcecode is here](https://github.com/PilzHere/ChristmasGame)
+[Download from Itch](https://pilzhere.itch.io/santas-crashing-christmas)
+
+[Download sourcecode from Github](https://github.com/PilzHere/ChristmasGame)

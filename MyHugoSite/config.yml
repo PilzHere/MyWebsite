@@ -145,3 +145,7 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+resources:
+  - src:  cover.png
+    title: "Cover"

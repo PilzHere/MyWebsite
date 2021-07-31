@@ -21,21 +21,17 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 cover:
-image: ""
-alt: "<alt text>" # alt text
-caption: "<text>" # display caption under cover
-relative: false # when using page bundles set this to true
-hidden: true # only hide on current single page
+    image: "https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODcucG5n/347x500/NsAcVc.png"
+    alt: "A game with graphics of a Game Boy game."
+    caption: "What's under that rock?"
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 
 editPost:
-external_URL: "https://github.com/<path_to_repo>/content"
-Text: "Suggest Changes" # edit text
-appendFilePath: true # to append file path to Edit link
+    URL: "mailto://svampodling@gmail.com?subject=Suggesting changes for "
+    #Text: "Suggest changes"
+    #appendFilePath: true # to append file path to Edit link
 ---
-
-<br />
------------- | ------------- | -------------
-![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODcucG5n/347x500/NsAcVc.png) | ![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODgucG5n/347x500/yx7mRS.png) | ![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODYucG5n/347x500/3mPeeg.png)
 
 This game was developed for the **LibGDX Game Jam**, March 2020.
 It is coded in Java, using the game library LibGDX.
@@ -45,4 +41,8 @@ There is a thermonuclear attack coming, so you have to make sure you grab every 
 
 It was made in a week of time.
 
-[Download game here](https://pilzhere.itch.io/survivor)
+<br />
+------------ | -------------
+![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODgucG5n/347x500/yx7mRS.png) | ![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODYucG5n/347x500/3mPeeg.png)
+
+[Download game from Itch](https://pilzhere.itch.io/survivor)

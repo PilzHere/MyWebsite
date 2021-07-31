@@ -21,21 +21,19 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 cover:
-image: ""
-alt: "<alt text>" # alt text
-caption: "<text>" # display caption under cover
-relative: false # when using page bundles set this to true
-hidden: true # only hide on current single page
+    #image: "images/cover.png"
+    image: "https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzNjYucG5n/original/0lzA09.png"
+    alt: "gng"
+    caption: "Good music from [Patrick de Arteaga](https://patrickdearteaga.com/) in this game"
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 
 editPost:
-external_URL: "https://github.com/<path_to_repo>/content"
-Text: "Suggest Changes" # edit text
-appendFilePath: true # to append file path to Edit link
----
+    URL: "mailto://svampodling@gmail.com?subject=Suggesting changes for "
+    #Text: "Suggest changes"
+    #appendFilePath: true # to append file path to Edit link
 
-<br />
------------- | ------------- | -------------
-![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzNjYucG5n/original/0lzA09.png) | ![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzMDQucG5n/original/dUeUAD.png) | ![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzMzMucG5n/original/km0peY.png)
+---
 
 I developed this game for the **LibGDX Game Jam 15**, christmas 2020.
 It is coded in Java, using the game library LibGDX.
@@ -47,11 +45,16 @@ It was made in a week of time.
 If it was not for the deadline, I would have focused on making proper code for the game (some parts are horrible, just to get things working quickly) and add more enemies, items and maps.\
 If I were to do this now, I would probably recode the whole game.
 
-The game got attention from the LibGDX community.\
-[Raxorg](https://github.com/Raxorg) added new features into the game.\
-MindaugasRumsa released a [mobile version](https://mindaugasrumsa.itch.io/ultra-nightmare-mobile) of the game.
+\
+The game got attention from the LibGDX community:
+* [Raxorg](https://github.com/Raxorg) added new features into the game.
+* MindaugasRumsa released a [mobile version](https://mindaugasrumsa.itch.io/ultra-nightmare-mobile) of the game.
 
-[Download game here](https://pilzhere.itch.io/ultra-nightmare)
+<br />
+------------ | -------------
+![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzMDQucG5n/original/dUeUAD.png) | ![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzMzMucG5n/original/km0peY.png)
 
-[Get the sourcecode here](https://github.com/PilzHere/Foxenstein3D)
+[Download game from Itch](https://pilzhere.itch.io/ultra-nightmare)
+
+[Download sourcecode from Github](https://github.com/PilzHere/Foxenstein3D)
 
