@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Games, demos and other applications."
+description: "Unfinished games, demos and other applications."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -27,14 +27,22 @@ cover:
     hidden: true # only hide on current single page
 
 editPost:
-    URL: "mailto://svampodling@gmail.com?subject=Suggesting changes for "
+    URL: "mailto:svampodling@gmail.com?subject=Suggesting changes for "
     #Text: "Suggest changes"
     #appendFilePath: true # to append file path to Edit link
 ---
 
-### [Ultra Nightmare](./ultra-nightmare)
+### [Ultra Nightmare](/posts/projects/ultra-nightmare)
 ![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzNjYucG5n/original/0lzA09.png)
-### [Survivor](./survivor)
+### [Survivor](/posts/projects/survivor)
 ![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODcucG5n/347x500/NsAcVc.png)
-### [Santa's Crashing Christmas](./santas-crashing-christmas)
+### [Santa's Crashing Christmas](/posts/projects/santas-crashing-christmas)
 ![](https://img.itch.zone/aW1nLzI4MjMxNDgucG5n/original/L%2BDOI%2B.png)
+### [Not F-Zero](/posts/projects/not-f-zero)
+![](/images/notFZero.png)
+### [SteamBoy DIG](/posts/projects/digger)
+![](/images/digger.png)
+### [Robo Wars](/posts/projects/robowars)
+![](/images/robowars.png)
+### [Space Barrier](/posts/projects/spacebarrier)
+![](/images/spacebarrier.png)

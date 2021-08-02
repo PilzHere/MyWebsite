@@ -28,7 +28,7 @@ cover:
     hidden: false # only hide on current single page
 
 editPost:
-    URL: "mailto://svampodling@gmail.com?subject=Suggesting changes for "
+    URL: "mailto:svampodling@gmail.com?subject=Suggesting changes for "
     #Text: "Suggest changes"
     #appendFilePath: true # to append file path to Edit link
 ---
@@ -45,4 +45,15 @@ It was made in a week of time.
 ------------ | -------------
 ![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODgucG5n/347x500/yx7mRS.png) | ![](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODYucG5n/347x500/3mPeeg.png)
 
-[Download game from Itch](https://pilzhere.itch.io/survivor)
+### [Play now](/games/survivor/play-survivor)
+
+### [Download game from Itch](https://pilzhere.itch.io/survivor)
+***
+Development GIF's
+{{< rawhtml >}}
+    <div style='position:relative; padding-bottom:calc(89.80% + 44px)'><iframe src='https://gfycat.com/ifr/BogusPointedBadger' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+    <br />
+    <div style='position:relative; padding-bottom:calc(89.80% + 44px)'><iframe src='https://gfycat.com/ifr/TemptingOpulentDungbeetle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+    <br />
+    <div style='position:relative; padding-bottom:calc(89.80% + 44px)'><iframe src='https://gfycat.com/ifr/TartImmenseImago' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+{{< /rawhtml >}}

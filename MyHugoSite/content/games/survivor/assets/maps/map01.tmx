@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="right-down" width="30" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="993">
+ <tileset firstgid="1" name="tilesheet01" tilewidth="16" tileheight="16" tilecount="72" columns="8">
+  <image source="../tilesheet01.png" width="128" height="144"/>
+  <tile id="7">
+   <animation>
+    <frame tileid="7" duration="300"/>
+    <frame tileid="15" duration="300"/>
+   </animation>
+  </tile>
+  <tile id="38">
+   <animation>
+    <frame tileid="38" duration="300"/>
+    <frame tileid="39" duration="300"/>
+   </animation>
+  </tile>
+ </tileset>
+ <layer id="6" name="backgroundLayer2" width="30" height="32">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <layer id="1" name="backgroundLayer" width="30" height="32">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAABAAAAIQAAQAEAAAABAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAADAAAAAwAAAAAQAAAAEAAAABAAAAJAAAAAEAAAABAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAAQAAAAUAAAAGAAAABwAAABEAAAARAAAAEQAAABEAAAANAAAAAQAAADAAAABFAAAAAQAAABEAAAARAAAAFgAAABEAAAABAAAAPQAAADAAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAADAAAAAwAAAAAQAAAA0AAAAOAAAADwAAABEAAAARAAAAEQAAABEAAAARAAAAAQAAAAEAAAABAAAAAQAAABEAAAARAAAAEQAAABEAAAABAAAAAQAAAAEAAAABAAAAMAAAACcAAAAwAAAAMAAAADQAAAA2AAAAAQAAADAAAAAwAAAAAQAAABUAAAAWAAAAFwAAABEAAAARAAAAEQAAABEAAABCAAAAAQAAAAEAAAARAAAAEQAAABEAAAAFAAAABgAAAAcAAAARAAAAEQAAAAEAAAABAAAAIAAAQDAAAAAwAAAAJwAAADQAAAA2AAAAAQAAAAEAAAAwAAAAAQAAABEAAAAFAAAABgAAAAcAAAAOAAAAEQAAABEAAAANAAAADgAAAA4AAAAPAAAAEQAAABEAAAANAAAADgAAAA8AAAARAAAADQAAAA4AAAAOAAAAJgAAADcAAAA3AAAAKwAAADYAAAAlAAAAJQAAAAEAAAABAAAAAQAAABEAAAANAAAADgAAAA8AAAARAAAAEQAAABEAAAARAAAAAQAAAAEAAAABAAAAAQAAABEAAAAVAAAAFgAAABcAAAABAAAAAQAAAAEAAAABAAAAHgAAQCAAAEAwAAAAJQAAADgAAAAwAAAAJwAAADAAAAABAAAAAQAAABEAAAAVAAAAFgAAABcAAAARAAAAEQAAAA4AAAANAAAAAQAAADAAAAA/AAAAAQAAABEAAAARAAAABgAAABEAAAABAAAAQAAAADAAAAABAAAACAAAACYAAAAnAAAAMAAAADgAAAAwAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAADAAAAAwAAAAAQAAAAEAAAABAAAADgAAAAEAAAABAAAAMAAAADAAAAABAAAAAQAAAAEAAAABAAAAAQAAADYAAAABAAAAAQAAADAAAAAwAAAAAQAAAAEAAAABAAAAAQAAAAEAAAAhAAAAAQAAAAEAAAAhAAAAAQAAADAAAAABAAAAAQAAAAEAAAABAAAADgAAAAEAAAABAAAAAQAAADAAAAABAAAAAQAAAAEAAAABAAAAAQAAADYAAAABAAAAAQAAAAEAAAABAAAAAQAAABEAAAAIAAAAAQAAACkAAIAOAAAAKQAAACkAAIAOAAAAKQAAAAEAAAABAAAACAAAABEAAAARAAAAFgAAABEAAAAIAAAAAQAAAAEAAAABAAAAJwAAADAAAAABAAAAAQAAADQAAAA2AAAANgAAACUAAAABAAAAAQAAAAYAAAAGAAAAAQAAAAEAAAAOAAAAAQAAAAEAAAAOAAAAAQAAAAEAAAAIAAAAEQAAAAUAAAAGAAAABgAAAAcAAAARAAAAEQAAAAEAAAABAAAAMAAAADAAAAAwAAAAJwAAADAAAAA0AAAANQAAACcAAAABAAAAKQAAgA4AAABCAAAAAQAAACkAAIAOAAAAKQAAACkAAIAOAAAAKQAAAAEAAAARAAAAEQAAAA0AAAABAAAAAQAAAA8AAAARAAAADQAAAA4AAAAmAAAAMAAAACAAAMAfAABAIAAAQCsAAAArAAAANgAAACsAAAABAAAAAQAAACEAAEABAAAAAQAAAAEAAAAhAABAAQAAAAEAAAAhAABAAQAAAAEAAAARAAAAEQAAAA0AAAABAAAAAQAAAA8AAAARAAAAEQAAAAEAAAABAAAAMAAAACYAAIBCAAAAJgAAADQAAAA2AAAANgAAADYAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAAhAAAAAQAAAAEAAAAhAAAAAQAAAAEAAAARAAAAEQAAABUAAAAWAAAAFgAAABcAAAARAAAACAAAAAEAAAABAAAAIAAAwB4AAMAeAAAAIAAAADQAAAA2AAAANgAAADYAAAABAAAAKQAAgA4AAAAOAAAAAQAAACkAAIAOAAAAKQAAAAEAAAAOAAAADgAAAA4AAAAPAAAAEQAAABEAAAARAAAAEQAAABEAAAAIAAAAAQAAAAEAAAABAAAAHgAAwAgAAAABAAAAAQAAADQAAAA2AAAANgAAADYAAAABAAAAAQAAAAEAAAAhAABAAQAAAAEAAAAOAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAADAAAAABAAAAAQAAAAEAAAABAAAAAQAAADYAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAAOAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAADYAAAABAAAAAQAAAAEAAAAwAAAAAQAAAAgAAAACAAAAAwAAAAQAAAAWAAAAEQAAABMAAAAIAAAAAQAAAAEAAAARAAAAEQAAABEAAAARAAAABgAAAA0AAAAOAAAADwAAAAEAAAABAAAAMAAAAAEAAAABAAAAMAAAACUAAAAlAAAANgAAAAEAAAAwAAAAAQAAABMAAAAKAAAACwAAAAwAAAARAAAAEQAAABEAAAASAAAAAQAAAAEAAAARAAAABQAAAEIAAAARAAAADgAAABEAAAARAAAAEQAAAAEAAAABAAAAIAAAQDAAAAAnAAAAMAAAADAAAAAnAAAANAAAAAEAAAABAAAAAQAAABEAAAASAAAAEwAAABQAAAARAAAAAgAAAAMAAAAEAAAAAQAAAAEAAAARAAAADgAAABEAAAARAAAAFgAAAAgAAAARAAAADQAAAA4AAAAOAAAAJgAAACsAAAAwAAAAMAAAACsAAAArAAAANgAAADYAAAABAAAAAQAAAAIAAAAfAAAABAAAABEAAAARAAAACgAAAAsAAAABAAAAAQAAAAEAAAARAAAAFQAAAA4AAAAPAAAABgAAAAgAAAARAAAAEQAAAAEAAAABAAAAIAAAADgAAAAwAAAAJwAAADQAAAA2AAAAJQAAADYAAAABAAAAAQAAACYAAAAnAAAAJgAAgBEAAAARAAAAEgAAAAEAAAABAAAAMAAAAAEAAAARAAAAEQAAABEAAAARAAAADgAAABEAAAARAAAAEQAAAAEAAAABAAAAAQAAADQAAAArAAAAKwAAADYAAAA1AAAAJwAAADQAAAABAAAAAQAAAAgAAAAfAABAFAAAABEAAAARAAAAAQAAAAEAAAAwAAAAMAAAAAEAAAABAAAAAQAAAAEAAAARAAAAFgAAAA0AAAAOAAAADwAAAAEAAAAwAAAAAQAAADQAAAA2AAAANgAAADYAAAA2AAAAKwAAADYAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAAwAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAA
+  </data>
+ </layer>
+ <objectgroup id="3" name="objectLayer">
+  <object id="98" name="block" gid="34" x="304" y="352" width="16" height="16"/>
+  <object id="107" name="block" gid="42" x="256" y="272" width="16" height="16"/>
+  <object id="111" name="block" gid="42" x="304" y="304" width="16" height="16"/>
+  <object id="112" name="block" gid="1073741866" x="304" y="336" width="16" height="16"/>
+  <object id="119" name="block" gid="25" x="192" y="272" width="16" height="16"/>
+  <object id="120" name="block" gid="25" x="208" y="272" width="16" height="16"/>
+  <object id="121" name="block" gid="25" x="272" y="272" width="16" height="16"/>
+  <object id="123" name="block" gid="1073741849" x="272" y="384" width="16" height="16"/>
+  <object id="125" name="block" gid="1073741849" x="208" y="384" width="16" height="16"/>
+  <object id="126" name="block" gid="1073741849" x="192" y="384" width="16" height="16"/>
+  <object id="127" name="block" gid="1073741849" x="176" y="384" width="16" height="16"/>
+  <object id="133" name="block" gid="1073741866" x="224" y="320" width="16" height="16"/>
+  <object id="136" name="block" gid="3221225514" x="240" y="320" width="16" height="16"/>
+  <object id="137" name="block" gid="2147483690" x="240" y="336" width="16" height="16"/>
+  <object id="143" name="block" gid="2147483674" x="160" y="288" width="16" height="16"/>
+  <object id="144" name="block" gid="2147483690" x="224" y="272" width="16" height="16"/>
+  <object id="145" name="block" gid="2147483690" x="160" y="352" width="16" height="16"/>
+  <object id="147" name="block" gid="42" x="224" y="336" width="16" height="16"/>
+  <object id="151" name="block" gid="26" x="144" y="144" width="16" height="16"/>
+  <object id="153" name="block" gid="1073741850" x="144" y="256" width="16" height="16"/>
+  <object id="157" name="block" gid="42" x="144" y="192" width="16" height="16"/>
+  <object id="160" name="block" gid="25" x="16" y="144" width="16" height="16"/>
+  <object id="161" name="block" gid="25" x="32" y="144" width="16" height="16"/>
+  <object id="162" name="block" gid="25" x="48" y="144" width="16" height="16"/>
+  <object id="163" name="block" gid="25" x="112" y="144" width="16" height="16"/>
+  <object id="164" name="block" gid="25" x="128" y="144" width="16" height="16"/>
+  <object id="165" name="block" gid="1073741849" x="112" y="256" width="16" height="16"/>
+  <object id="166" name="block" gid="1073741849" x="128" y="256" width="16" height="16"/>
+  <object id="167" name="block" gid="1073741849" x="48" y="256" width="16" height="16"/>
+  <object id="168" name="block" gid="1073741849" x="32" y="256" width="16" height="16"/>
+  <object id="169" name="block" gid="1073741849" x="16" y="256" width="16" height="16"/>
+  <object id="174" name="block" gid="3221225498" x="0" y="256" width="16" height="16"/>
+  <object id="175" name="block" gid="2147483674" x="0" y="144" width="16" height="16"/>
+  <object id="180" name="block" gid="2147483682" x="0" y="240" width="16" height="16"/>
+  <object id="181" name="block" gid="2147483682" x="0" y="160" width="16" height="16"/>
+  <object id="182" name="block" gid="2147483682" x="0" y="224" width="16" height="16"/>
+  <object id="189" name="block" gid="42" x="304" y="192" width="16" height="16"/>
+  <object id="191" name="block" gid="1073741866" x="256" y="256" width="16" height="16"/>
+  <object id="193" name="block" gid="25" x="176" y="176" width="16" height="16"/>
+  <object id="194" name="block" gid="25" x="208" y="144" width="16" height="16"/>
+  <object id="195" name="block" gid="25" x="288" y="176" width="16" height="16"/>
+  <object id="199" name="block" gid="1073741849" x="208" y="256" width="16" height="16"/>
+  <object id="200" name="block" gid="1073741849" x="176" y="224" width="16" height="16"/>
+  <object id="203" name="block" gid="3221225514" x="224" y="256" width="16" height="16"/>
+  <object id="206" name="block" gid="3221225498" x="192" y="256" width="16" height="16"/>
+  <object id="209" name="block" gid="2147483690" x="160" y="192" width="16" height="16"/>
+  <object id="212" name="block" gid="2147483682" x="192" y="240" width="16" height="16"/>
+  <object id="213" name="block" gid="2147483682" x="192" y="160" width="16" height="16"/>
+  <object id="283" name="block" gid="34" x="464" y="224" width="16" height="16"/>
+  <object id="287" name="block" gid="1073741866" x="416" y="256" width="16" height="16"/>
+  <object id="288" name="block" gid="25" x="336" y="160" width="16" height="16"/>
+  <object id="289" name="block" gid="25" x="352" y="160" width="16" height="16"/>
+  <object id="290" name="block" gid="25" x="368" y="160" width="16" height="16"/>
+  <object id="295" name="block" gid="1073741849" x="368" y="256" width="16" height="16"/>
+  <object id="296" name="block" gid="1073741849" x="352" y="256" width="16" height="16"/>
+  <object id="297" name="block" gid="1073741849" x="336" y="256" width="16" height="16"/>
+  <object id="299" name="block" gid="3221225514" x="384" y="256" width="16" height="16"/>
+  <object id="302" name="block" gid="3221225498" x="320" y="256" width="16" height="16"/>
+  <object id="303" name="block" gid="2147483674" x="320" y="160" width="16" height="16"/>
+  <object id="305" name="block" gid="2147483690" x="320" y="192" width="16" height="16"/>
+  <object id="308" name="block" gid="2147483682" x="320" y="240" width="16" height="16"/>
+  <object id="311" name="block" gid="26" x="464" y="272" width="16" height="16"/>
+  <object id="312" name="block" gid="34" x="464" y="288" width="16" height="16"/>
+  <object id="313" name="block" gid="1073741850" x="464" y="384" width="16" height="16"/>
+  <object id="314" name="block" gid="34" x="464" y="368" width="16" height="16"/>
+  <object id="315" name="block" gid="34" x="464" y="352" width="16" height="16"/>
+  <object id="316" name="block" gid="42" x="416" y="272" width="16" height="16"/>
+  <object id="319" name="block" gid="1073741866" x="416" y="384" width="16" height="16"/>
+  <object id="320" name="block" gid="25" x="336" y="272" width="16" height="16"/>
+  <object id="321" name="block" gid="25" x="352" y="272" width="16" height="16"/>
+  <object id="323" name="block" gid="25" x="432" y="272" width="16" height="16"/>
+  <object id="324" name="block" gid="25" x="448" y="272" width="16" height="16"/>
+  <object id="325" name="block" gid="1073741849" x="432" y="384" width="16" height="16"/>
+  <object id="326" name="block" gid="1073741849" x="448" y="384" width="16" height="16"/>
+  <object id="328" name="block" gid="1073741849" x="352" y="384" width="16" height="16"/>
+  <object id="329" name="block" gid="1073741849" x="336" y="384" width="16" height="16"/>
+  <object id="334" name="block" gid="3221225498" x="320" y="384" width="16" height="16"/>
+  <object id="335" name="block" gid="2147483674" x="320" y="272" width="16" height="16"/>
+  <object id="337" name="block" gid="2147483690" x="320" y="304" width="16" height="16"/>
+  <object id="338" name="block" gid="3221225514" x="320" y="336" width="16" height="16"/>
+  <object id="340" name="block" gid="2147483682" x="320" y="368" width="16" height="16"/>
+  <object id="341" name="block" gid="2147483682" x="320" y="288" width="16" height="16"/>
+  <object id="342" name="block" gid="2147483682" x="320" y="352" width="16" height="16"/>
+  <object id="409" name="block" gid="1073741850" x="464" y="512" width="16" height="16"/>
+  <object id="410" name="block" gid="34" x="464" y="496" width="16" height="16"/>
+  <object id="411" name="block" gid="34" x="464" y="480" width="16" height="16"/>
+  <object id="412" name="block" gid="42" x="416" y="400" width="16" height="16"/>
+  <object id="416" name="block" gid="25" x="336" y="400" width="16" height="16"/>
+  <object id="419" name="block" gid="25" x="432" y="400" width="16" height="16"/>
+  <object id="421" name="block" gid="1073741849" x="432" y="512" width="16" height="16"/>
+  <object id="422" name="block" gid="1073741849" x="448" y="512" width="16" height="16"/>
+  <object id="423" name="block" gid="1073741849" x="368" y="512" width="16" height="16"/>
+  <object id="424" name="block" gid="1073741849" x="352" y="512" width="16" height="16"/>
+  <object id="430" name="block" gid="3221225498" x="336" y="512" width="16" height="16"/>
+  <object id="431" name="block" gid="2147483674" x="320" y="400" width="16" height="16"/>
+  <object id="432" name="block" gid="2147483690" x="384" y="400" width="16" height="16"/>
+  <object id="433" name="block" gid="2147483690" x="320" y="432" width="16" height="16"/>
+  <object id="434" name="block" gid="3221225514" x="320" y="464" width="16" height="16"/>
+  <object id="437" name="block" gid="2147483682" x="320" y="416" width="16" height="16"/>
+  <object id="439" name="block" gid="26" x="304" y="400" width="16" height="16"/>
+  <object id="440" name="block" gid="34" x="304" y="416" width="16" height="16"/>
+  <object id="441" name="block" gid="1073741850" x="304" y="512" width="16" height="16"/>
+  <object id="442" name="block" gid="34" x="304" y="496" width="16" height="16"/>
+  <object id="443" name="block" gid="34" x="304" y="480" width="16" height="16"/>
+  <object id="445" name="block" gid="42" x="304" y="432" width="16" height="16"/>
+  <object id="446" name="block" gid="1073741866" x="304" y="464" width="16" height="16"/>
+  <object id="448" name="block" gid="25" x="176" y="400" width="16" height="16"/>
+  <object id="449" name="block" gid="25" x="192" y="400" width="16" height="16"/>
+  <object id="450" name="block" gid="25" x="208" y="400" width="16" height="16"/>
+  <object id="451" name="block" gid="25" x="272" y="400" width="16" height="16"/>
+  <object id="452" name="block" gid="25" x="288" y="400" width="16" height="16"/>
+  <object id="453" name="block" gid="1073741849" x="272" y="512" width="16" height="16"/>
+  <object id="454" name="block" gid="1073741849" x="288" y="512" width="16" height="16"/>
+  <object id="462" name="block" gid="3221225498" x="160" y="496" width="16" height="16"/>
+  <object id="463" name="block" gid="2147483674" x="160" y="400" width="16" height="16"/>
+  <object id="469" name="block" gid="2147483682" x="160" y="416" width="16" height="16"/>
+  <object id="470" name="block" gid="2147483682" x="160" y="480" width="16" height="16"/>
+  <object id="471" name="block" gid="26" x="144" y="400" width="16" height="16"/>
+  <object id="472" name="block" gid="34" x="144" y="416" width="16" height="16"/>
+  <object id="476" name="block" gid="42" x="96" y="400" width="16" height="16"/>
+  <object id="480" name="block" gid="25" x="16" y="400" width="16" height="16"/>
+  <object id="481" name="block" gid="25" x="32" y="400" width="16" height="16"/>
+  <object id="482" name="block" gid="25" x="48" y="400" width="16" height="16"/>
+  <object id="487" name="block" gid="1073741849" x="48" y="512" width="16" height="16"/>
+  <object id="495" name="block" gid="2147483674" x="0" y="400" width="16" height="16"/>
+  <object id="496" name="block" gid="2147483690" x="64" y="400" width="16" height="16"/>
+  <object id="502" name="block" gid="2147483682" x="0" y="480" width="16" height="16"/>
+  <object id="503" name="block" gid="26" x="144" y="272" width="16" height="16"/>
+  <object id="512" name="block" gid="25" x="16" y="272" width="16" height="16"/>
+  <object id="518" name="block" gid="1073741849" x="128" y="384" width="16" height="16"/>
+  <object id="521" name="block" gid="1073741849" x="16" y="384" width="16" height="16"/>
+  <object id="526" name="block" gid="3221225498" x="0" y="384" width="16" height="16"/>
+  <object id="527" name="block" gid="2147483674" x="0" y="272" width="16" height="16"/>
+  <object id="533" name="block" gid="2147483682" x="0" y="288" width="16" height="16"/>
+  <object id="536" name="block" gid="1073741849" x="80" y="512" width="16" height="16"/>
+  <object id="537" name="block" gid="1073741849" x="64" y="512" width="16" height="16"/>
+  <object id="538" name="block" gid="1073741849" x="256" y="512" width="16" height="16"/>
+  <object id="539" name="block" gid="1073741849" x="240" y="512" width="16" height="16"/>
+  <object id="540" name="block" gid="1073741849" x="224" y="512" width="16" height="16"/>
+  <object id="541" name="block" gid="1073741849" x="416" y="512" width="16" height="16"/>
+  <object id="542" name="block" gid="1073741849" x="400" y="512" width="16" height="16"/>
+  <object id="543" name="block" gid="1073741849" x="384" y="512" width="16" height="16"/>
+  <object id="544" name="block" gid="34" x="464" y="464" width="16" height="16"/>
+  <object id="545" name="block" gid="34" x="464" y="448" width="16" height="16"/>
+  <object id="549" name="block" gid="34" x="464" y="336" width="16" height="16"/>
+  <object id="550" name="block" gid="34" x="464" y="320" width="16" height="16"/>
+  <object id="551" name="block" gid="34" x="464" y="304" width="16" height="16"/>
+  <object id="554" name="block" gid="34" x="432" y="176" width="16" height="16"/>
+  <object id="556" name="block" gid="25" x="400" y="160" width="16" height="16"/>
+  <object id="557" name="block" gid="25" x="416" y="160" width="16" height="16"/>
+  <object id="558" name="block" gid="25" x="224" y="144" width="16" height="16"/>
+  <object id="560" name="block" gid="25" x="256" y="144" width="16" height="16"/>
+  <object id="561" name="block" gid="25" x="64" y="144" width="16" height="16"/>
+  <object id="564" name="block" gid="2147483682" x="0" y="208" width="16" height="16"/>
+  <object id="565" name="block" gid="2147483682" x="0" y="192" width="16" height="16"/>
+  <object id="566" name="block" gid="2147483682" x="0" y="176" width="16" height="16"/>
+  <object id="569" name="block" gid="2147483682" x="0" y="304" width="16" height="16"/>
+  <object id="570" name="block" gid="2147483682" x="0" y="464" width="16" height="16"/>
+  <object id="572" name="block" gid="2147483682" x="0" y="432" width="16" height="16"/>
+  <object id="577" name="block" gid="3221225514" x="320" y="224" width="16" height="16"/>
+  <object id="581" name="block" gid="34" x="272" y="160" width="16" height="16"/>
+  <object id="582" name="block" gid="2147483682" x="320" y="176" width="16" height="16"/>
+  <object id="600" name="teleport" gid="59" x="80" y="352" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="732"/>
+    <property name="direction" type="int" value="0"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="601" name="stone" gid="28" x="32" y="176" width="16" height="16"/>
+  <object id="605" name="item" type="crowbar" gid="61" x="32" y="320" width="16" height="16">
+   <properties>
+    <property name="available" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="607" name="item" type="hazardSuit" gid="63" x="208" y="432" width="16" height="16">
+   <properties>
+    <property name="available" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="608" name="item" type="flashlight" gid="64" x="128" y="192" width="16" height="16">
+   <properties>
+    <property name="available" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="609" name="teleport" gid="59" x="240" y="144" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="0"/>
+    <property name="direction" type="int" value="0"/>
+    <property name="finished" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="610" name="block" gid="1073741849" x="256" y="128" width="16" height="16"/>
+  <object id="611" name="block" gid="1073741849" x="272" y="128" width="16" height="16"/>
+  <object id="612" name="block" gid="1073741849" x="288" y="128" width="16" height="16"/>
+  <object id="613" name="block" gid="1073741849" x="192" y="128" width="16" height="16"/>
+  <object id="614" name="block" gid="1073741849" x="208" y="128" width="16" height="16"/>
+  <object id="615" name="block" gid="1073741849" x="224" y="128" width="16" height="16"/>
+  <object id="616" name="block" gid="1073741849" x="176" y="128" width="16" height="16"/>
+  <object id="617" name="block" gid="25" x="256" y="16" width="16" height="16"/>
+  <object id="618" name="block" gid="25" x="272" y="16" width="16" height="16"/>
+  <object id="619" name="block" gid="25" x="288" y="16" width="16" height="16"/>
+  <object id="620" name="block" gid="25" x="192" y="16" width="16" height="16"/>
+  <object id="621" name="block" gid="25" x="208" y="16" width="16" height="16"/>
+  <object id="622" name="block" gid="25" x="224" y="16" width="16" height="16"/>
+  <object id="623" name="block" gid="25" x="176" y="16" width="16" height="16"/>
+  <object id="624" name="block" gid="2147483682" x="160" y="96" width="16" height="16"/>
+  <object id="625" name="block" gid="2147483682" x="160" y="112" width="16" height="16"/>
+  <object id="626" name="block" gid="2147483682" x="160" y="64" width="16" height="16"/>
+  <object id="627" name="block" gid="2147483682" x="160" y="80" width="16" height="16"/>
+  <object id="628" name="block" gid="2147483682" x="160" y="32" width="16" height="16"/>
+  <object id="629" name="block" gid="2147483682" x="160" y="48" width="16" height="16"/>
+  <object id="630" name="block" gid="34" x="304" y="32" width="16" height="16"/>
+  <object id="631" name="block" gid="34" x="304" y="48" width="16" height="16"/>
+  <object id="632" name="block" gid="34" x="304" y="64" width="16" height="16"/>
+  <object id="633" name="block" gid="34" x="304" y="80" width="16" height="16"/>
+  <object id="634" name="block" gid="34" x="304" y="96" width="16" height="16"/>
+  <object id="635" name="block" gid="34" x="304" y="112" width="16" height="16"/>
+  <object id="636" name="block" gid="26" x="304" y="16" width="16" height="16"/>
+  <object id="637" name="block" gid="2147483674" x="160" y="16" width="16" height="16"/>
+  <object id="638" name="block" gid="3221225498" x="160" y="128" width="16" height="16"/>
+  <object id="639" name="block" gid="1073741850" x="304" y="128" width="16" height="16"/>
+  <object id="640" name="block" gid="25" x="240" y="16" width="16" height="16"/>
+  <object id="643" name="stone" gid="28" x="48" y="224" width="16" height="16"/>
+  <object id="646" name="stone" gid="28" x="208" y="464" width="16" height="16"/>
+  <object id="652" name="block" gid="3221225498" x="0" y="512" width="16" height="16"/>
+  <object id="653" name="block" gid="1073741849" x="16" y="512" width="16" height="16"/>
+  <object id="654" name="block" gid="2147483682" x="0" y="496" width="16" height="16"/>
+  <object id="655" name="block" gid="2147483682" x="0" y="416" width="16" height="16"/>
+  <object id="656" name="block" gid="2147483682" x="160" y="432" width="16" height="16"/>
+  <object id="657" name="block" gid="34" x="144" y="432" width="16" height="16"/>
+  <object id="658" name="block" gid="2147483682" x="160" y="448" width="16" height="16"/>
+  <object id="659" name="block" gid="34" x="144" y="448" width="16" height="16"/>
+  <object id="660" name="block" gid="2147483682" x="160" y="464" width="16" height="16"/>
+  <object id="666" name="block" gid="1073741849" x="64" y="256" width="16" height="16"/>
+  <object id="668" name="block" gid="1073741849" x="256" y="384" width="16" height="16"/>
+  <object id="669" name="block" gid="25" x="256" y="400" width="16" height="16"/>
+  <object id="672" name="block" gid="1073741849" x="240" y="384" width="16" height="16"/>
+  <object id="673" name="block" gid="25" x="240" y="400" width="16" height="16"/>
+  <object id="674" name="block" gid="1073741849" x="224" y="384" width="16" height="16"/>
+  <object id="675" name="block" gid="25" x="224" y="400" width="16" height="16"/>
+  <object id="676" name="block" gid="1073741849" x="160" y="384" width="16" height="16"/>
+  <object id="677" name="block" gid="1073741849" x="144" y="384" width="16" height="16"/>
+  <object id="678" name="block" gid="2147483682" x="160" y="304" width="16" height="16"/>
+  <object id="679" name="block" gid="34" x="144" y="304" width="16" height="16"/>
+  <object id="684" name="block" gid="2147483682" x="160" y="320" width="16" height="16"/>
+  <object id="686" name="block" gid="2147483682" x="160" y="336" width="16" height="16"/>
+  <object id="700" name="block" gid="2147483682" x="112" y="368" width="16" height="16"/>
+  <object id="701" name="block" gid="2147483682" x="112" y="304" width="16" height="16"/>
+  <object id="703" name="block" gid="34" x="96" y="304" width="16" height="16"/>
+  <object id="705" name="block" gid="34" x="48" y="368" width="16" height="16"/>
+  <object id="706" name="block" gid="25" x="16" y="352" width="16" height="16"/>
+  <object id="710" name="block" gid="34" x="96" y="384" width="16" height="16"/>
+  <object id="711" name="block" gid="2147483682" x="64" y="384" width="16" height="16"/>
+  <object id="712" name="block" gid="26" x="96" y="352" width="16" height="16"/>
+  <object id="713" name="block" gid="2147483674" x="64" y="352" width="16" height="16"/>
+  <object id="714" name="block" gid="1073741850" x="144" y="336" width="16" height="16"/>
+  <object id="715" name="block" gid="3221225498" x="0" y="336" width="16" height="16"/>
+  <object id="716" name="block" gid="2147483674" x="0" y="352" width="16" height="16"/>
+  <object id="717" name="block" gid="2147483674" x="112" y="352" width="16" height="16"/>
+  <object id="718" name="block" gid="25" x="144" y="352" width="16" height="16"/>
+  <object id="719" name="block" gid="3221225498" x="112" y="336" width="16" height="16"/>
+  <object id="720" name="block" gid="1073741850" x="96" y="336" width="16" height="16"/>
+  <object id="723" name="block" gid="26" x="48" y="352" width="16" height="16"/>
+  <object id="724" name="block" gid="3221225498" x="112" y="384" width="16" height="16"/>
+  <object id="725" name="block" gid="1073741850" x="48" y="384" width="16" height="16"/>
+  <object id="726" name="block" gid="2147483674" x="64" y="272" width="16" height="16"/>
+  <object id="727" name="block" gid="26" x="48" y="272" width="16" height="16"/>
+  <object id="728" name="block" gid="2147483674" x="112" y="272" width="16" height="16"/>
+  <object id="729" name="block" gid="26" x="96" y="272" width="16" height="16"/>
+  <object id="732" name="teleport" gid="59" x="80" y="336" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="600"/>
+    <property name="direction" type="int" value="1"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="737" name="teleport" gid="59" x="80" y="272" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="738"/>
+    <property name="direction" type="int" value="0"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="738" name="teleport" gid="59" x="32" y="384" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="737"/>
+    <property name="direction" type="int" value="1"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="739" name="teleport" gid="59" x="0" y="368" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="740"/>
+    <property name="direction" type="int" value="2"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="740" name="teleport" gid="59" x="144" y="320" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="739"/>
+    <property name="direction" type="int" value="3"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="741" name="block" gid="25" x="32" y="352" width="16" height="16"/>
+  <object id="742" name="block" gid="1073741849" x="32" y="336" width="16" height="16"/>
+  <object id="743" name="block" gid="25" x="32" y="272" width="16" height="16"/>
+  <object id="744" name="block" gid="3221225498" x="64" y="336" width="16" height="16"/>
+  <object id="745" name="block" gid="1073741850" x="48" y="336" width="16" height="16"/>
+  <object id="747" name="block" gid="34" x="48" y="304" width="16" height="16"/>
+  <object id="749" name="block" gid="2147483682" x="64" y="304" width="16" height="16"/>
+  <object id="750" name="teleport" gid="59" x="144" y="288" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="751"/>
+    <property name="direction" type="int" value="3"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="751" name="teleport" gid="59" x="0" y="320" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="750"/>
+    <property name="direction" type="int" value="2"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="752" name="teleport" gid="59" x="16" y="336" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="753"/>
+    <property name="direction" type="int" value="1"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="753" name="teleport" gid="59" x="128" y="352" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="752"/>
+    <property name="direction" type="int" value="0"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="754" name="teleport" gid="59" x="128" y="336" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="755"/>
+    <property name="direction" type="int" value="1"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="755" name="teleport" gid="59" x="128" y="272" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="754"/>
+    <property name="direction" type="int" value="0"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="756" name="block" gid="34" x="48" y="320" width="16" height="16"/>
+  <object id="757" name="block" gid="34" x="48" y="288" width="16" height="16"/>
+  <object id="758" name="teleport" gid="59" x="64" y="368" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="759"/>
+    <property name="direction" type="int" value="2"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="759" name="teleport" gid="59" x="96" y="320" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="758"/>
+    <property name="direction" type="int" value="3"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="760" name="teleport" gid="59" x="96" y="368" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="761"/>
+    <property name="direction" type="int" value="3"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="761" name="teleport" gid="59" x="64" y="288" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="760"/>
+    <property name="direction" type="int" value="2"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="762" name="teleport" gid="59" x="112" y="320" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="761"/>
+    <property name="direction" type="int" value="2"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="764" name="teleport" gid="59" x="112" y="288" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="761"/>
+    <property name="direction" type="int" value="2"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="765" name="teleport" gid="59" x="64" y="320" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="761"/>
+    <property name="direction" type="int" value="2"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="766" name="teleport" gid="59" x="96" y="288" width="16" height="16">
+   <properties>
+    <property name="destinationID" type="int" value="758"/>
+    <property name="direction" type="int" value="3"/>
+    <property name="map" value=""/>
+   </properties>
+  </object>
+  <object id="768" name="block" gid="25" x="112" y="400" width="16" height="16"/>
+  <object id="769" name="block" gid="25" x="128" y="400" width="16" height="16"/>
+  <object id="770" name="block" gid="1073741849" x="32" y="512" width="16" height="16"/>
+  <object id="771" name="block" gid="2147483682" x="0" y="448" width="16" height="16"/>
+  <object id="772" name="block" gid="2147483690" x="176" y="288" width="16" height="16"/>
+  <object id="773" name="block" gid="2147483674" x="176" y="272" width="16" height="16"/>
+  <object id="774" name="block" gid="42" x="288" y="288" width="16" height="16"/>
+  <object id="775" name="block" gid="1073741866" x="288" y="368" width="16" height="16"/>
+  <object id="776" name="block" gid="1073741850" x="288" y="384" width="16" height="16"/>
+  <object id="777" name="block" gid="1073741850" x="304" y="368" width="16" height="16"/>
+  <object id="778" name="block" gid="26" x="304" y="288" width="16" height="16"/>
+  <object id="779" name="block" gid="26" x="288" y="272" width="16" height="16"/>
+  <object id="781" name="pressurePlate" gid="27" x="64" y="192" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="782" name="pressurePlate" gid="27" x="48" y="208" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="786" name="pressurePlate" gid="27" x="48" y="192" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="790" name="block" gid="1073741866" x="144" y="224" width="16" height="16"/>
+  <object id="800" name="door" gid="44" x="144" y="160" width="16" height="16">
+   <properties>
+    <property name="direction" type="int" value="3"/>
+   </properties>
+  </object>
+  <object id="801" name="door" gid="44" x="144" y="240" width="16" height="16">
+   <properties>
+    <property name="direction" type="int" value="3"/>
+   </properties>
+  </object>
+  <object id="802" name="pressurePlate" gid="27" x="80" y="192" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="803" name="pressurePlate" gid="27" x="64" y="208" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="804" name="pressurePlate" gid="27" x="80" y="208" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="805" name="pressurePlate" gid="27" x="96" y="192" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="806" name="pressurePlate" gid="27" x="96" y="208" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="807" name="block" gid="1073741849" x="80" y="256" width="16" height="16"/>
+  <object id="808" name="block" gid="1073741849" x="96" y="256" width="16" height="16"/>
+  <object id="809" name="block" gid="25" x="80" y="144" width="16" height="16"/>
+  <object id="810" name="block" gid="25" x="96" y="144" width="16" height="16"/>
+  <object id="811" name="pressurePlate" gid="27" x="64" y="224" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="812" name="pressurePlate" gid="27" x="80" y="240" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="813" name="pressurePlate" gid="27" x="48" y="160" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="814" name="pressurePlate" gid="27" x="16" y="192" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="815" name="pressurePlate" gid="27" x="16" y="208" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="816" name="pressurePlate" gid="27" x="96" y="160" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="817" name="pressurePlate" gid="27" x="128" y="176" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="818" name="pressurePlate" gid="27" x="128" y="224" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="819" name="pressurePlate" gid="27" x="112" y="240" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="820" name="pressurePlate" gid="27" x="16" y="240" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="821" name="pressurePlate" gid="27" x="16" y="160" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="822" name="block" gid="34" x="144" y="176" width="16" height="16"/>
+  <object id="823" name="pressurePlate" gid="27" x="96" y="240" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="824" name="pressurePlate" gid="27" x="32" y="240" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="825" name="pressurePlate" gid="27" x="32" y="160" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="826" name="pressurePlate" gid="27" x="16" y="224" width="16" height="16">
+   <properties>
+    <property name="shouldBeDown" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="827" name="zoneInfo" gid="60" x="80" y="160" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="2"/>
+    <property name="pressurePlatesDown" type="int" value="2"/>
+   </properties>
+  </object>
+  <object id="828" name="zoneInfo" gid="60" x="128" y="496" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="0"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="829" name="zoneInfo" gid="60" x="16" y="288" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="0"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="830" name="zoneInfo" gid="60" x="304" y="272" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="2"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="831" name="zoneInfo" gid="60" x="240" y="176" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="2"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="832" name="zoneInfo" gid="60" x="448" y="176" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="1"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="833" name="zoneInfo" gid="60" x="448" y="288" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="2"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="834" name="zoneInfo" gid="60" x="464" y="416" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="1"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="835" name="zoneInfo" gid="60" x="192" y="512" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="1"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="836" name="zoneInfo" gid="60" x="240" y="64" width="16" height="16">
+   <properties>
+    <property name="maxEnemies" type="int" value="0"/>
+    <property name="pressurePlatesDown" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="837" name="stone" gid="28" x="272" y="496" width="16" height="16"/>
+  <object id="838" name="stone" gid="28" x="272" y="416" width="16" height="16"/>
+  <object id="839" name="stone" gid="28" x="240" y="432" width="16" height="16"/>
+  <object id="840" name="stone" gid="28" x="240" y="480" width="16" height="16"/>
+  <object id="841" name="block" gid="3221225514" x="208" y="496" width="16" height="16"/>
+  <object id="842" name="block" gid="1073741849" x="192" y="496" width="16" height="16"/>
+  <object id="843" name="block" gid="1073741849" x="176" y="496" width="16" height="16"/>
+  <object id="844" name="block" gid="3221225498" x="208" y="512" width="16" height="16"/>
+  <object id="845" name="block" gid="49" x="224" y="432" width="16" height="16"/>
+  <object id="846" name="block" gid="50" x="272" y="464" width="16" height="16"/>
+  <object id="847" name="block" gid="50" x="272" y="448" width="16" height="16"/>
+  <object id="848" name="block" gid="50" x="272" y="480" width="16" height="16"/>
+  <object id="850" name="block" gid="49" x="256" y="432" width="16" height="16"/>
+  <object id="851" name="block" gid="49" x="256" y="480" width="16" height="16"/>
+  <object id="852" name="block" gid="49" x="224" y="480" width="16" height="16"/>
+  <object id="853" name="block" gid="49" x="208" y="480" width="16" height="16"/>
+  <object id="855" name="block" gid="50" x="208" y="448" width="16" height="16"/>
+  <object id="859" name="block" gid="51" x="272" y="432" width="16" height="16"/>
+  <object id="860" name="block" gid="51" x="208" y="416" width="16" height="16"/>
+  <object id="864" name="block" gid="1073741866" x="432" y="240" width="16" height="16"/>
+  <object id="866" name="block" gid="1073741850" x="432" y="256" width="16" height="16"/>
+  <object id="867" name="block" gid="1073741850" x="464" y="240" width="16" height="16"/>
+  <object id="868" name="block" gid="1073741849" x="448" y="240" width="16" height="16"/>
+  <object id="869" name="block" gid="2147483690" x="384" y="288" width="16" height="16"/>
+  <object id="870" name="block" gid="42" x="368" y="288" width="16" height="16"/>
+  <object id="871" name="block" gid="2147483682" x="384" y="272" width="16" height="16"/>
+  <object id="872" name="block" gid="26" x="368" y="272" width="16" height="16"/>
+  <object id="873" name="block" gid="26" x="448" y="400" width="16" height="16"/>
+  <object id="874" name="block" gid="34" x="448" y="416" width="16" height="16"/>
+  <object id="876" name="block" gid="42" x="448" y="432" width="16" height="16"/>
+  <object id="877" name="block" gid="26" x="464" y="432" width="16" height="16"/>
+  <object id="878" name="block" gid="3221225498" x="320" y="480" width="16" height="16"/>
+  <object id="879" name="block" gid="3221225514" x="336" y="480" width="16" height="16"/>
+  <object id="880" name="block" gid="2147483682" x="336" y="496" width="16" height="16"/>
+  <object id="881" name="block" gid="2147483690" x="368" y="416" width="16" height="16"/>
+  <object id="882" name="block" gid="42" x="352" y="416" width="16" height="16"/>
+  <object id="883" name="block" gid="26" x="352" y="400" width="16" height="16"/>
+  <object id="884" name="block" gid="2147483674" x="368" y="400" width="16" height="16"/>
+  <object id="885" name="block" gid="1073741866" x="368" y="368" width="16" height="16"/>
+  <object id="886" name="block" gid="3221225514" x="384" y="368" width="16" height="16"/>
+  <object id="887" name="block" gid="2147483682" x="384" y="384" width="16" height="16"/>
+  <object id="888" name="block" gid="1073741850" x="368" y="384" width="16" height="16"/>
+  <object id="889" name="block" gid="24" x="352" y="288" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="895" name="block" gid="24" x="336" y="288" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="896" name="block" gid="24" x="336" y="304" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="897" name="block" gid="24" x="336" y="336" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="898" name="block" gid="24" x="336" y="320" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="899" name="block" gid="24" x="352" y="304" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="900" name="block" gid="24" x="448" y="304" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="902" name="block" gid="24" x="368" y="224" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="904" name="block" gid="24" x="384" y="240" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="906" name="block" gid="24" x="336" y="176" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="907" name="block" gid="24" x="352" y="176" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="908" name="block" gid="24" x="352" y="192" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="909" name="block" gid="24" x="368" y="192" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="910" name="block" gid="24" x="384" y="192" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="911" name="block" gid="24" x="384" y="176" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="912" name="block" gid="24" x="416" y="224" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="913" name="block" gid="24" x="432" y="224" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="914" name="block" gid="24" x="448" y="224" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="915" name="block" gid="24" x="416" y="240" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="916" name="block" gid="24" x="384" y="416" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="917" name="block" gid="24" x="384" y="432" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="918" name="block" gid="24" x="400" y="432" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="919" name="block" gid="24" x="416" y="432" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="920" name="block" gid="24" x="432" y="480" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="921" name="block" gid="24" x="384" y="448" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="922" name="block" gid="24" x="384" y="464" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="923" name="block" gid="24" x="368" y="464" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="924" name="block" gid="24" x="368" y="448" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="925" name="block" gid="24" x="368" y="432" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="926" name="block" gid="24" x="352" y="432" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="927" name="block" gid="24" x="336" y="416" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="928" name="block" gid="24" x="368" y="240" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="929" name="block" gid="24" x="368" y="176" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="930" name="block" gid="26" x="464" y="208" width="16" height="16"/>
+  <object id="931" name="block" gid="42" x="448" y="208" width="16" height="16"/>
+  <object id="932" name="block" gid="42" x="432" y="192" width="16" height="16"/>
+  <object id="933" name="block" gid="26" x="448" y="192" width="16" height="16"/>
+  <object id="934" name="block" gid="26" x="432" y="160" width="16" height="16"/>
+  <object id="935" name="block" gid="25" x="384" y="160" width="16" height="16"/>
+  <object id="936" name="block" gid="24" x="368" y="304" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="937" name="block" gid="24" x="384" y="304" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="938" name="block" gid="24" x="400" y="304" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="939" name="block" gid="51" x="176" y="416" width="16" height="16"/>
+  <object id="940" name="block" gid="50" x="176" y="432" width="16" height="16"/>
+  <object id="941" name="block" gid="50" x="176" y="448" width="16" height="16"/>
+  <object id="943" name="block" gid="51" x="176" y="480" width="16" height="16"/>
+  <object id="944" name="stone" gid="28" x="192" y="448" width="16" height="16"/>
+  <object id="945" name="stone" gid="28" x="240" y="208" width="16" height="16"/>
+  <object id="946" name="block" gid="24" x="32" y="480" width="16" height="16">
+   <properties>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="947" name="block" gid="1073741850" x="96" y="512" width="16" height="16"/>
+  <object id="948" name="block" gid="1073741850" x="112" y="496" width="16" height="16"/>
+  <object id="949" name="block" gid="1073741850" x="128" y="480" width="16" height="16"/>
+  <object id="950" name="block" gid="1073741850" x="144" y="464" width="16" height="16"/>
+  <object id="951" name="block" gid="1073741866" x="128" y="464" width="16" height="16"/>
+  <object id="952" name="block" gid="1073741866" x="112" y="480" width="16" height="16"/>
+  <object id="953" name="block" gid="1073741866" x="96" y="496" width="16" height="16"/>
+  <object id="957" name="block" gid="67" x="80" y="400" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="958" name="block" gid="67" x="80" y="384" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="959" name="block" gid="67" x="144" y="368" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="960" name="block" gid="67" x="160" y="368" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="961" name="block" gid="67" x="240" y="272" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="962" name="block" gid="67" x="240" y="256" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="963" name="block" gid="67" x="304" y="320" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="964" name="block" gid="67" x="320" y="320" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="965" name="block" gid="67" x="304" y="448" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="966" name="block" gid="67" x="320" y="448" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="967" name="block" gid="67" x="400" y="384" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="968" name="block" gid="67" x="400" y="400" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="969" name="block" gid="67" x="400" y="256" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="970" name="block" gid="67" x="400" y="272" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="971" name="block" gid="67" x="304" y="208" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="972" name="block" gid="67" x="320" y="208" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="973" name="block" gid="67" x="144" y="208" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="974" name="block" gid="67" x="160" y="208" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="975" name="block" gid="67" x="240" y="144" width="16" height="16">
+   <properties>
+    <property name="enemyCantPass" type="bool" value="true"/>
+    <property name="invisible" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="977" name="item" type="medkit" gid="62" x="64" y="240" width="16" height="16">
+   <properties>
+    <property name="available" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="978" name="item" type="medkit" gid="62" x="368" y="336" width="16" height="16">
+   <properties>
+    <property name="available" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="979" name="item" type="key" gid="69" x="240" y="208" width="16" height="16">
+   <properties>
+    <property name="available" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="980" name="block" gid="1073741849" x="288" y="224" width="16" height="16"/>
+  <object id="981" name="block" gid="34" x="272" y="240" width="16" height="16"/>
+  <object id="982" name="block" gid="1073741849" x="304" y="224" width="16" height="16"/>
+  <object id="983" name="block" gid="1073741866" x="272" y="224" width="16" height="16"/>
+  <object id="984" name="block" gid="1073741850" x="272" y="256" width="16" height="16"/>
+  <object id="985" name="block" gid="42" x="272" y="176" width="16" height="16"/>
+  <object id="986" name="block" gid="26" x="304" y="176" width="16" height="16"/>
+  <object id="987" name="block" gid="26" x="272" y="144" width="16" height="16"/>
+  <object id="988" name="block" gid="2147483674" x="160" y="176" width="16" height="16"/>
+  <object id="989" name="block" gid="2147483674" x="192" y="144" width="16" height="16"/>
+  <object id="990" name="block" gid="2147483690" x="192" y="176" width="16" height="16"/>
+  <object id="991" name="block" gid="1073741849" x="160" y="224" width="16" height="16"/>
+  <object id="992" name="block" gid="3221225514" x="192" y="224" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="5" name="enemiesLayer">
+  <object id="587" name="enemy" gid="57" x="272" y="352" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="589" name="enemy" gid="57" x="224" y="160" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="591" name="enemy" gid="57" x="432" y="352" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="592" name="enemy" gid="57" x="416" y="464" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="594" name="enemy" gid="57" x="256" y="160" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="595" name="enemy" gid="57" x="400" y="208" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="596" name="enemy" gid="57" x="432" y="320" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="597" name="enemy" gid="57" x="208" y="304" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="954" name="enemy" gid="57" x="224" y="448" width="16" height="16">
+   <properties>
+    <property name="EnemyID" type="int" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="zoneLayer" visible="0">
+  <object id="3" name="zone" x="0" y="128" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="0"/>
+    <property name="y" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="12" name="zone" x="320" y="128" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="2"/>
+    <property name="y" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="13" name="zone" x="160" y="128" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="1"/>
+    <property name="y" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="14" name="zone" x="0" y="256" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="0"/>
+    <property name="y" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="15" name="zone" x="160" y="256" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="1"/>
+    <property name="y" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="16" name="zone" x="320" y="256" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="2"/>
+    <property name="y" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="17" name="zone" x="0" y="384" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="0"/>
+    <property name="y" type="int" value="2"/>
+   </properties>
+  </object>
+  <object id="18" name="zone" x="160" y="384" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="1"/>
+    <property name="y" type="int" value="2"/>
+   </properties>
+  </object>
+  <object id="19" name="zone" x="320" y="384" width="160" height="128">
+   <properties>
+    <property name="x" type="int" value="2"/>
+    <property name="y" type="int" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
