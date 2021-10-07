@@ -27,7 +27,7 @@ cover:
     hidden: true # only hide on current single page
 
 editPost:
-    URL: "mailto:svampodling@gmail.com?subject=Suggesting changes for "
+    URL: "mailto:pilzhere.net@gmail.com?subject=Suggesting changes for "
     #Text: "Suggest changes"
     #appendFilePath: true # to append file path to Edit link
 ---

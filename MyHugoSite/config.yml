@@ -75,7 +75,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:svampodling@gmail.com"
+      url: "mailto:pilzhere.net@gmail.com"
     - name: github
       url: "https://github.com/PilzHere"
     - name: itchio
