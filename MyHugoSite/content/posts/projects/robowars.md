@@ -2,7 +2,7 @@
 title: "Robo Wars"
 date: 2021-08-02T01:52:02+02:00
 draft: false
-weight: 2
+weight: 9
 # aliases: ["/robowars"]
 author: "PilzHere"
 showToc: false

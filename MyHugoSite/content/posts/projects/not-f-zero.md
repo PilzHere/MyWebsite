@@ -2,7 +2,7 @@
 title: "Not F Zero"
 date: 2021-08-02T00:01:36+02:00
 draft: false
-weight: 2
+weight: 5
 # aliases: ["/survivor"]
 author: "PilzHere"
 showToc: false

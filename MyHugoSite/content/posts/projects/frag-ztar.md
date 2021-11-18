@@ -1,7 +1,7 @@
 ---
 title: "Frag Ztar"
 date: 2021-11-18
-weight: 2
+weight: 1
 # aliases: ["/frag-ztar"]
 author: "PilzHere"
 showToc: false
@@ -21,7 +21,6 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 cover:
-    #image: "images/cover.png"
     image: "https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDY4OTg2LnBuZw==/250x600/BhcN%2FV.png"
     alt: "gng"
     caption: ""
