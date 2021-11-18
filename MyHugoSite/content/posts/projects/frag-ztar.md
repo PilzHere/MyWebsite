@@ -9,11 +9,10 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Star Fox (SNES) inspired rail
-shooter."
+description: "Star Fox (SNES) inspired rail shooter."
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true
-# to disable highlightjs disableShare: false
+disableHLJS: true # to disable highlightjs
+disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
@@ -22,18 +21,16 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 cover:
-# image: "images/cover.png"
-image: "https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDY4OTg2LnBuZw==/250x600/BhcN%2FV.png"
-alt: "gng"
-caption: ""
-relative: false # when using page bundles set this to true hidden: false # only hide on current single page
-
+    #image: "images/cover.png"
+    image: "https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDY4OTg2LnBuZw==/250x600/BhcN%2FV.png"
+    alt: "gng"
+    caption: ""
+    relative: false # when using page bundles set this to true hidden: false # only hide on current single page
+    
 editPost:
-URL: "mailto:pilzhere.net@gmail.com?subject=Suggesting changes for "
-
-# Text: "Suggest changes"
-
-# appendFilePath: true # to append file path to Edit link
+    URL: "mailto:pilzhere.net@gmail.com?subject=Suggesting changes for "
+    # Text: "Suggest changes"
+    # appendFilePath: true # to append file path to Edit link
 
 ---
 
@@ -75,22 +72,22 @@ reading animations from a 3D model.
 <li>I didn't use shaders for the model as "your supposed to" but it works and can always be updated in a more efficient way later by anyone.</li>
 <li>No end boss. =(</li>
 <li>More enemies.</li>
+<li>Velocity based movement.</li>
 </ul>
 
 The final result of the game's votes will be 1st of December. It would be nice to win!
 
----
-
 <br />
 ------------ | -------------
-![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY4LnBuZw==/347x500/mx5Lvp.png) | ![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY5LnBuZw==/347x500/K0AqIw.png) | ![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY3LnBuZw==/347x500/5NPnzy.png) | ![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY1LnBuZw==/347x500/mPRR4U.png) | ![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDY4OTg2LnBuZw==/347x500/%2F5pvfK.png)
+![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY4LnBuZw==/347x500/mx5Lvp.png) | ![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY5LnBuZw==/347x500/K0AqIw.png)
+![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY3LnBuZw==/347x500/5NPnzy.png) | ![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY1LnBuZw==/347x500/mPRR4U.png)
+![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDY4OTg2LnBuZw==/347x500/%2F5pvfK.png)
 
 ### [Download game from Itch](https://pilzhere.itch.io/frag-ztar)
 
 ### [Download sourcecode from Github](https://github.com/PilzHere/FZtar)
 
-***
 Development GIF's {{< rawhtml >}}
-<div style='position:relative; padding-bottom:calc(74.84% + 44px)'><iframe src='https://gfycat.com/frailvioletgroundhog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-<br />
+    <div style='position:relative; padding-bottom:calc(87.35% + 44px)'><iframe src='https://gfycat.com/ifr/FrailVioletGroundhog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+    <br />
 {{< /rawhtml >}}
