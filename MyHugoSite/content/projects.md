@@ -31,7 +31,8 @@ editPost:
     #Text: "Suggest changes"
     #appendFilePath: true # to append file path to Edit link
 ---
-
+### [Frag Ztar](/posts/projects/frag-ztar)
+![](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDY4OTg2LnBuZw==/347x500/%2F5pvfK.png)
 ### [Ultra Nightmare](/posts/projects/ultra-nightmare)
 ![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzNjYucG5n/original/0lzA09.png)
 ### [Survivor](/posts/projects/survivor)
