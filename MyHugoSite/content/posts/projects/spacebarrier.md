@@ -14,7 +14,6 @@ description: "Fly 'n shoot"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -43,7 +42,8 @@ When all energy from the gun is depleted, run on the ground to recharge the gun.
 
 ### [Play now](/games/spacebarrier/play-spacebarrier)
 
-***
+&nbsp;
+
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DirectOldfashionedHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>

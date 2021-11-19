@@ -14,7 +14,6 @@ description: "Mode7 <3"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -43,7 +42,9 @@ I just wanted to make a copy of the game by myself using **Java**.
 Another fan of the game from the **LibGDX** community [MGSX](https://github.com/mgsx-dev) reached out to me and contributed with loading time optimizations by using the GPU to generate/paint the track instead of the CPU which improved loading times by **thousands of percents**.
 
 ### [Download sourcecode from Github](https://github.com/PilzHere/Mode7Racer)
-***
+
+&nbsp;
+
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(74.83% + 44px)'><iframe src='https://gfycat.com/ifr/GrayGreatKakarikis' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
