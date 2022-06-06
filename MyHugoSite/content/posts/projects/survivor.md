@@ -1,7 +1,7 @@
 ---
 title: "Survivor"
 date: 2021-07-31
-weight: 4
+weight: 95
 # aliases: ["/survivor"]
 author: "PilzHere"
 showToc: false

@@ -1,7 +1,7 @@
 ---
 title: "Frag Ztar"
 date: 2021-11-18
-weight: 1
+weight: 2
 # aliases: ["/frag-ztar"]
 author: "PilzHere"
 showToc: false

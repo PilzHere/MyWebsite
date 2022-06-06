@@ -2,7 +2,7 @@
 title: "SteamBoy DIG"
 date: 2021-08-02T00:01:44+02:00
 draft: false
-weight: 7
+weight: 98
 # aliases: ["/digger"]
 author: "PilzHere"
 showToc: false

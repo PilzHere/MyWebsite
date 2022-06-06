@@ -1,7 +1,7 @@
 ---
 title: "New website"
 date: 2021-07-30
-weight: 2
+weight: 93
 # aliases: ["/first"]
 tags: ["first post", "website", "hugo", "papermod", "github", "wordpress", "markdown", "ghosts 'n goblins"]
 author: "PilzHere"
