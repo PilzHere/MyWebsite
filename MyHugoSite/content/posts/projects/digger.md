@@ -33,6 +33,8 @@ editPost:
     #appendFilePath: true # to append file path to Edit link
 ---
 
+![image](/images/digger.png)
+
 This game is coded in Java, using the game library **LibGDX**.
 
 After finishing playing the game **Steamworld** Dig I wanted to create a small demake of it.

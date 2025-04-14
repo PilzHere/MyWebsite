@@ -6,6 +6,7 @@ weight: 3
 # aliases: ["/first"]
 tags: [""]
 author: "PilzHere"
+hidden: true
 showToc: false
 TocOpen: false
 draft: false
@@ -36,9 +37,60 @@ editPost:
 ---
 
 {{< rawhtml >}}
-    <!-- Ugly but it works! -->
-    <head>
-        <title>HTML Meta Tag</title>
-        <meta http-equiv="refresh" content="0; url=../index.html"/>
-    </head>
+<div class="game-container">
+  <div id="embed-html"></div>
+</div>
+
+<script src="soundmanager2-setup.js"></script>
+<script src="soundmanager2-jsmin.js"></script>
+<script type="text/javascript" src="html/html.nocache.js"></script>
+
+<script>
+  const gameArea = document.getElementById("embed-html");
+
+  window.addEventListener("keydown", function(e) {
+    const keysToBlock = ["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight", " ", "X"];
+    const isGameFocused = document.activeElement === document.body || gameArea.contains(document.activeElement);
+
+    if (isGameFocused && keysToBlock.includes(e.key)) {
+      e.preventDefault();
+    }
+  }, { passive: false });
+</script>
+
+<style>
+
+table {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden; /* Prevent scrollbars */
+  border-collapse: collapse; /* Removes extra spacing */
+}
+
+canvas {
+  margin: 0 auto;
+  display: block;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+}
+</style>
+
+<script>
+  function handleMouseDown(evt) {
+    evt.preventDefault();
+    evt.stopPropagation();
+    evt.target.style.cursor = 'default';
+    window.focus();
+  }
+
+  function handleMouseUp(evt) {
+    evt.preventDefault();
+    evt.stopPropagation();
+    evt.target.style.cursor = '';
+  }
+
+  document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+  document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+</script>
 {{< /rawhtml >}}

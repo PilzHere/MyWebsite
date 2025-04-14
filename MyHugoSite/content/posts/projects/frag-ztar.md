@@ -33,6 +33,8 @@ editPost:
 
 ---
 
+![image](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDY4OTg2LnBuZw==/original/%2F6a7u0.png)
+
 ## I have enjoyed another game jam!
 
 This time it was the swedish videogame news site [Frag Zone](https://fz.se) that set up *FZ Game Jam 2021*. The time is
@@ -44,6 +46,8 @@ site. There was money to win, so why not!?
 I've wanted to try out MonoGame for a long time and thought this could be the right time. I don't feel there's a big
 difference in C# and Java anyway.
 
+![image](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY4LnBuZw==/original/16pO2B.png)
+
 I've also thinking about trying to make a *rail shooter* for a while too. As most of my games, I try to recreate another
 game I already know about and then add or change things as I see fit. This time that game was **Star Fox** for the
 *SNES* in holy 256*224 resolution.
@@ -54,6 +58,8 @@ It feels like I have more control of the workflow and game that way, especially 
 Anyway the game turned out ALMOST as I wanted it. Working with MonoGame, making calculations using Vectors and Matrices
 is easier than in LibGDX. One thing I was disappointed with was that MonoGame does not have an implemented way of
 reading animations from a 3D model.
+
+![image](https://img.itch.zone/aW1hZ2UvMTI4MTE5Ni83NDU3MzY1LnBuZw==/original/meX82e.png)
 
 ### What I used for this project:
 
@@ -85,8 +91,10 @@ The final result of the game's votes will be 1st of December. It would be nice t
 
 &nbsp;
 
+<!--
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(87.35% + 44px)'><iframe src='https://gfycat.com/ifr/FrailVioletGroundhog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
     <br />
 {{< /rawhtml >}}
+-->

@@ -33,6 +33,8 @@ editPost:
     #appendFilePath: true # to append file path to Edit link
 ---
 
+![image](/images/spacebarrier.png)
+
 This game is coded in Java, using the game library **LibGDX**.
 
 It was my contribution for my first **LibGDX Game Jam**.
@@ -44,6 +46,7 @@ When all energy from the gun is depleted, run on the ground to recharge the gun.
 
 &nbsp;
 
+<!--
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DirectOldfashionedHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -52,3 +55,4 @@ Development GIF's
     <br />
     <div style='position:relative; padding-bottom:calc(56.23% + 44px)'><iframe src='https://gfycat.com/ifr/SplendidSilkyAgama' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 {{< /rawhtml >}}
+-->

@@ -32,6 +32,8 @@ editPost:
     #appendFilePath: true # to append file path to Edit link
 ---
 
+![image](https://img.itch.zone/aW1hZ2UvNTk3NDI4LzMxNjM2ODcucG5n/original/P1EKOu.png)
+
 This game was developed for the **LibGDX Game Jam**, March 2020.
 It is coded in Java, using the game library LibGDX.
 
@@ -49,7 +51,7 @@ It was made in a week of time.
 ### [Download game from Itch](https://pilzhere.itch.io/survivor)
 
 &nbsp;
-
+<!--
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(89.80% + 44px)'><iframe src='https://gfycat.com/ifr/BogusPointedBadger' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -58,3 +60,4 @@ Development GIF's
     <br />
     <div style='position:relative; padding-bottom:calc(89.80% + 44px)'><iframe src='https://gfycat.com/ifr/TartImmenseImago' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 {{< /rawhtml >}}
+-->

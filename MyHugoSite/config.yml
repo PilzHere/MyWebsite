@@ -1,14 +1,16 @@
-baseURL: https://pilzhere.github.io/
+#baseURL: http://localhost:1313/
+#baseURL: https://pilzhere.github.io/
+baseURL: https://pilzhere.net/
 languageCode: en-us
 title: PilzHere
-theme: "PaperMod"
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-4MF9BYCF1F
 
 minify:
   disableXML: true
@@ -16,6 +18,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  googleNews: false
   title: PilzHere's blog
   description: "A blog about programming, videogames, technology and other unplanned topics." # Link preview description.
   keywords: [Blog, Portfolio, PaperMod]
@@ -42,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    #favicon: "<link / abs url>"
+    #favicon16x16: "<link / abs url>"
+    #favicon32x32: "<link / abs url>"
+    #apple_touch_icon: "<link / abs url>"
+    #safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "PILZHERE"
@@ -145,3 +148,7 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+outputs:
+  home:
+    - HTML

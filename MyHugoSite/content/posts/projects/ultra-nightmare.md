@@ -34,6 +34,8 @@ editPost:
 
 ---
 
+![](https://img.itch.zone/aW1hZ2UvODY4MDEwLzQ4NzYzNjYucG5n/original/0lzA09.png)
+
 I developed this game for the **LibGDX Game Jam 15**, christmas 2020.
 It is coded in Java, using the game library LibGDX.
 
@@ -58,6 +60,7 @@ If I were to do this now, I would probably recode the whole game.
 
 &nbsp;
 
+<!--
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(74.84% + 44px)'><iframe src='https://gfycat.com/ifr/EverlastingRepulsiveGiraffe' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -68,3 +71,4 @@ Development GIF's
     <br />
     <div style='position:relative; padding-bottom:calc(74.84% + 44px)'><iframe src='https://gfycat.com/ifr/PositiveLimitedChimpanzee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 {{< /rawhtml >}}
+-->

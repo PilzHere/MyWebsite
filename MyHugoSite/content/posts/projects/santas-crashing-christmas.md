@@ -50,6 +50,7 @@ Some code of the game is horrible *(just make it work)* because of the deadline.
 
 &nbsp;
 
+<!--
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(56.23% + 44px)'><iframe src='https://gfycat.com/ifr/OfficialImpossibleLeafcutterant' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -59,6 +60,7 @@ Development GIF's
     <div style='position:relative; padding-bottom:calc(56.23% + 44px)'><iframe src='https://gfycat.com/ifr/ZigzagEnlightenedBuffalo' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
     <br />
 {{< /rawhtml >}}
+-->
 
 Development timelapse
 {{< youtube eHvpQgGYObA >}}

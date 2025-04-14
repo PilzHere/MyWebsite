@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Mode7 <3"
+description: "❤️ SNES Mode 7"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -33,6 +33,8 @@ editPost:
     #appendFilePath: true # to append file path to Edit link
 ---
 
+![image](/images/notFZero.png)
+
 This game is coded in Java, using the game library **LibGDX**.
 
 After playing **F-Zero** on my old **Super Nintendo Entertainment System** I wondered how much of the game I could reproduce with today's technology.
@@ -45,6 +47,7 @@ Another fan of the game from the **LibGDX** community [MGSX](https://github.com/
 
 &nbsp;
 
+<!--
 Development GIF's
 {{< rawhtml >}}
     <div style='position:relative; padding-bottom:calc(74.83% + 44px)'><iframe src='https://gfycat.com/ifr/GrayGreatKakarikis' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -55,3 +58,4 @@ Development GIF's
     <br />
     <div style='position:relative; padding-bottom:calc(74.83% + 44px)'><iframe src='https://gfycat.com/ifr/GoodSatisfiedAsianpiedstarling' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 {{< /rawhtml >}}
+-->

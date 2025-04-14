@@ -33,6 +33,8 @@ editPost:
     #appendFilePath: true # to append file path to Edit link
 ---
 
+![image](/images/robowars.png)
+
 This game is coded in Java, using the game library **LibGDX**.
 
 It was my contribution for my second **LibGDX Game Jam**.
@@ -44,7 +46,10 @@ Control your robot to shoot and destroy the evil robot vacuums!
 
 &nbsp;
 
+<!--
 Development GIF's
 {{< rawhtml >}}
+
     <div style='position:relative; padding-bottom:calc(87.35% + 44px)'><iframe src='https://gfycat.com/ifr/ConfusedAmusingFrog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 {{< /rawhtml >}}
+-->
